@@ -1,11 +1,11 @@
 # Aprendendo mais sobre CRUD e APIs 
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/luanvictorms/README-template?Pokemon-v2)
-![GitHub language count](https://img.shields.io/github/languages/count/luanvictorms/README-template?Pokemon-v2)
-![GitHub forks](https://img.shields.io/github/forks/luanvictorms/README-template?Pokemon-v2)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/README-template?Pokemon-v2)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/README-template?Pokemon-v2)
+![GitHub repo size](https://img.shields.io/github/repo-size/luanvictorms/pokemon-api)
+![GitHub language count](https://img.shields.io/github/languages/count/luanvictorms/pokemon-api)
+![GitHub forks](https://img.shields.io/github/forks/luanvictorms/pokemon-api)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/luanvictorms/pokemon-api)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/luanvictorms/pokemon-api)
 
 
 > O projeto sera utilizado em um futuro game.
